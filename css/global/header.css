@@ -26,11 +26,9 @@
     display: inline-block;
     color: var(--cor-0);
     padding: 16px 0px;
-    font-size: 18px;
     position: relative;
-    font-family: "poppins";
-    font-weight: 400;
 }
+
 .header-menu a::after {
     content: "";
     display: block;
@@ -69,6 +67,5 @@
     }
     .header-menu a {
         padding: 8px 12px;
-        font-size: 14px;
     }
-}
+    }
